@@ -14,7 +14,7 @@ ul{
 }
 .logo{
     display: inline-block;
-    vertical-align: 10px;
+    vertical-align: 15px;
     
 }
 
@@ -33,13 +33,16 @@ ul{
     background-color: cornflowerblue;
     color: white;
     border-radius: 5px;
+   
+    font-size: 15px;
     
    
 }
 .second{
     background-color:white;
-    color:lightgray;
+    color:grey;
     border-radius: 5px;
+    font-size: 15px;
 }
 
 .principale{
