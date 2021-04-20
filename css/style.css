@@ -9,6 +9,9 @@ header{
     background-color: white;
     
 }
+ul{
+    list-style: none;
+}
 .logo{
     display: inline-block;
     vertical-align: 10px;
@@ -37,4 +40,56 @@ header{
     background-color:white;
     color:lightgray;
     border-radius: 5px;
+}
+
+.principale{
+    padding-left: 50px;
+}
+
+.symbol{
+    
+    border-radius:100%;
+    padding: 4px;
+    margin-top: 10px;
+    font-weight:bold;
+    font-size: 10px;
+    vertical-align: middle;
+    
+}
+
+.spunta{
+    border: 1px solid greenyellow ;
+    color: greenyellow;
+}
+.cross{
+    border: 1px solid red;
+    color: red;
+}
+.tag{
+    border-radius:3px;
+    font-size: 10px;
+    padding: 3px;
+}
+
+.editorial{
+    
+   
+    background-color: cornflowerblue;
+}
+
+.q1{
+    background-color: violet;
+
+}
+.Recruiting{
+    background-color: green;
+}
+.mobile{
+    background-color: orange;
+}
+.website{
+    background-color: orchid;
+}
+.Sales{
+    background-color: palegreen;
 }
